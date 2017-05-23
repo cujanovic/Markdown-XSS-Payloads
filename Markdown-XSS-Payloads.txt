@@ -19,4 +19,5 @@ _http://danlec_@.1 style=background-image:url(data:image/png;base64,iVBORw0KGgoA
 <http://\<meta\ http-equiv=\"refresh\"\ content=\"0;\ url=http://danlec.com/\"\>>
 [text](http://danlec.com " [@danlec](/danlec) ")
 [a](javascript:this;alert(1))
+[a](javascript:this;alert(1&#41;)
 [a](javascript&#58this;alert(1&#41;)
