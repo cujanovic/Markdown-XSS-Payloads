@@ -21,3 +21,4 @@ _http://danlec_@.1 style=background-image:url(data:image/png;base64,iVBORw0KGgoA
 [a](javascript:this;alert(1))
 [a](javascript:this;alert(1&#41;)
 [a](javascript&#58this;alert(1&#41;)
+[a](Javas&#99;ript:alert(1&#41;)
